@@ -3,18 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="400"/>
-</div>
-
 ### :woman_technologist: About Me :
 
 A passionate Frontend Developer with some Backend experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🌱 I’m currently learning **TypeScript,Redux.**
-- 📫 How to reach me:
+- 🌱 I’m currently learning **TypeScript, Redux** and working on my pet-projects
+- 📫 Feel free to reach me:
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://t.me/+77775547575">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram account"/>
   </a>
@@ -22,10 +18,13 @@ A passionate Frontend Developer with some Backend experience <img src="https://m
   <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail account"/>
   </a>
 </div>
+<div align="right"> 
+  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="400"/>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
